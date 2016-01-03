@@ -1,0 +1,7 @@
+<div id="showcase">
+    <div class="container">
+			<div class='col-md-4 col-sm-4 showcase'><figure><div><a href='".esc_url($showcase['url'])."'><img src='<?php echo get_template_directory_uri()."/defaults/images/dimg7.jpg"; ?>'><div class='showcase-caption'><div class='showcase-caption-title'><?php _e('Retina Ready','professional') ?></div><div class='showcase-caption-desc'><?php _e('Works Like a Charm on Super HD Devices.','professional') ?></div></div></a></div></figure></div>
+			<div class='col-md-4 col-sm-4 showcase'><figure><div><a href='".esc_url($showcase['url'])."'><img src='<?php echo get_template_directory_uri()."/defaults/images/dimg5.jpg"; ?>'><div class='showcase-caption'><div class='showcase-caption-title'><?php _e('Translation Ready','professional') ?></div><div class='showcase-caption-desc'><?php _e('Convert the Theme Easily in Your Own Language.','professional') ?></div></div></a></div></figure></div>
+			<div class='col-md-4 col-sm-4 showcase'><figure><div><a href='".esc_url($showcase['url'])."'><img src='<?php echo get_template_directory_uri()."/defaults/images/dimg4.jpg"; ?>'><div class='showcase-caption'><div class='showcase-caption-title'><?php _e('Retina Ready','professional') ?></div><div class='showcase-caption-desc'><?php _e('View it on iPhone','professional') ?></div></div></a></div></figure></div>  
+     </div>   
+</div><!--.showcase-->

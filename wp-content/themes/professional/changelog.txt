@@ -1,0 +1,68 @@
+ChangeLog
+---------
+
+Version 1.0.2.1
+
+	i) Fixed Bug Which Crashed Sites on Theme Update.
+	ii) Fixed Customizer Sanitization Issues, reported by theme check.
+
+Version 1.0.2
+
+	i) Updated Redux Framework.
+	ii) Removed All Signs of Tracking. Disabled Opt ins too. No Tracking, whatsoever.
+	iii) Added Demo Links in Theme Options.
+
+Version 1.0.1
+	
+	i) Fixed Bug which Caused Overlapping of Title on Archive Pages.
+
+
+Version 1.0.0.9
+
+	i) Removed Protocol while importing Fonts, to support SSL sites.
+
+Version 1.0.0.8
+
+	i) Fixed Text Domain Issues.
+	ii) Added Missing Pagination on Archive and Search Pages.
+	iii) Fixed Slider Bug, for Slides without Title/Desc
+
+Version 1.0.0.7
+
+	i) Stated License for Font Awesome.
+	ii) Removed TinyNav
+	iii) Slider Nav Issue Fixed.
+	iv) Multiple Fixes for Mobile/SmartPhones
+
+Version 1.0.0.6
+
+	i) Fixed Social Links. They Open In New Tab now.
+	ii) Fixed Slider Caption on Large Screens.
+
+Version 1.0.0.5
+
+	i) Default Slider Not Working, Bug Fixed.
+
+Version 1.0.0.4
+
+	i) Fixed Issues with HTML5 Gallery
+	ii) Screenshot Update
+	iii) Defaults Created for theme.
+	iv) Other Minor Fixes.
+	v) Added Translation Files for French, Spanish & German(Deutsche).
+
+Version 1.0.0.3
+
+	i) Fixed Bugs with Showcase in Firefox
+	ii) Made Slider Links Clickable
+	iii) Issues with Social Icons FIxed. 
+
+Version 1.0.0.2
+
+	i) Globalized $content_width
+	ii) Added Proper Copyright Details
+	iii) Fixed wp_nav_menu call in footer.php
+
+Version 1.0
+
+	i) Initial Release.

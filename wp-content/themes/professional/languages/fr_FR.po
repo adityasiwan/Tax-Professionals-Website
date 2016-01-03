@@ -1,0 +1,767 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Professional\n"
+"POT-Creation-Date: 2014-08-20 02:14+0530\n"
+"PO-Revision-Date: 2014-08-20 02:15+0530\n"
+"Last-Translator: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language-Team: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _ex;_x;_e;__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: /Volumes/Macintosh HD/Users/Rohit/Documents/Sites/"
+"Wordpress/wp-content/themes/professional\n"
+"X-Poedit-SearchPathExcluded-0: /Volumes/Macintosh HD/Users/Rohit/Documents/"
+"Sites/Wordpress/wp-content/themes/professional/assets/frameworks/redux\n"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/404.php:27
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#. translators: %1$s: smiley
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:28
+#, php-format
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:31
+#, php-format
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:34
+#, php-format
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:34
+msgid "F Y"
+msgstr "F Y"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:37
+#, php-format
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:37
+msgid "Y"
+msgstr "Y"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:40
+msgid "Asides"
+msgstr "Asides"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:43
+msgid "Galleries"
+msgstr "Galleries"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:46
+msgid "Images"
+msgstr "Images"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:49
+msgid "Videos"
+msgstr "Videos"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:52
+msgid "Quotes"
+msgstr "Quotes"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:55
+msgid "Links"
+msgstr "Links"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:58
+msgid "Statuses"
+msgstr "Statuses"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:61
+msgid "Audios"
+msgstr "Audios"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:64
+msgid "Chats"
+msgstr "Chats"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/archive.php:67
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/sidebar.php:12
+msgid "Archives"
+msgstr "Archives"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/comments.php:35
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/comments.php:53
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/comments.php:36
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/comments.php:37
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/comments.php:65
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-grid2.php:21
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/content-grid2-d.php:17
+msgid "Read More..."
+msgstr "Read More..."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-page.php:18
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-single.php:20
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content.php:30
+msgid "Pages:"
+msgstr "Pages:"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-page.php:23
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-single.php:60
+msgid "<i class=\"fa fa-edit\"></i> Edit"
+msgstr "<i class=\"fa fa-edit\"></i> Edit"
+
+#. translators: used between list items, there is a space after the comma
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-single.php:29
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-single.php:32
+msgid ", "
+msgstr ", "
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-single.php:37
+#, php-format
+msgid ""
+"<i class=\"fa fa-tags\"></i> %2$s <i class=\"fa fa-link\"></i> <a href=\"%3$s"
+"\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-tags\"></i> %2$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-single.php:39
+#, php-format
+msgid ""
+"<i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-single.php:45
+#, php-format
+msgid ""
+"<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-tags\"></i> %2$s "
+"<i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-tags\"></i> %2$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/content-single.php:47
+#, php-format
+msgid ""
+"<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-link\"></i> <a "
+"href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+msgstr "<i class=\"fa fa-folder-open\"></i> %1$s <i class=\"fa fa-link\"></i> <a href=\"%3$s\" rel=\"bookmark\">Permalink</a>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/showcase-default.php:3
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/showcase-default.php:5
+msgid "Retina Ready"
+msgstr "Retina Ready"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/showcase-default.php:3
+msgid "Works Like a Charm on Super HD Devices."
+msgstr "Works Like a Charm on Super HD Devices."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/showcase-default.php:4
+msgid "Translation Ready"
+msgstr "Translation Ready"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/showcase-default.php:4
+msgid "Convert the Theme Easily in Your Own Language."
+msgstr "Convert the Theme Easily in Your Own Language."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/showcase-default.php:5
+msgid "View it on iPhone"
+msgstr "View it on iPhone"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/slider-default.php:3
+msgid "Fully Responsive Design"
+msgstr "Fully Responsive Design"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/slider-default.php:3
+msgid "Resize your Browser and see it in action."
+msgstr "Resize your Browser and see it in action."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/slider-default.php:4
+msgid "Fully Responsive"
+msgstr "Fully Responsive"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/slider-default.php:4
+msgid "Resize your Browser to see the Effect."
+msgstr "Resize your Browser to see the Effect."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/social-default.php:1
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:355
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/social-fa.php:3
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/social-default.php:2
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/social-fa.php:6
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/social-default.php:3
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:363
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/social-fa.php:9
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/social-default.php:4
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:379
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/social-fa.php:12
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/social-default.php:5
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:387
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/social-fa.php:15
+msgid "Instagram"
+msgstr "Instagram"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/defaults/social-default.php:6
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:395
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/social-fa.php:18
+msgid "Flickr"
+msgstr "Flickr"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/footer.php:19
+#, php-format
+msgid "Designed by %1$s."
+msgstr "Designed by %1$s."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/functions.php:51
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/functions.php:52
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/functions.php:86
+msgid "Primary Sidebar"
+msgstr "Primary Sidebar"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/functions.php:95
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/functions.php:104
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/functions.php:113
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/header.php:64
+msgid "Menu"
+msgstr "Menu"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/header.php:65
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/home.php:18
+msgid "Recent Posts"
+msgstr "Recent Posts"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:55
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:56
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:81
+#, php-format
+msgid ""
+"<span class=\"posted-on\"><i class=\"fa fa-calendar\"></i> %1$s</span><span "
+"class=\"byline\"> <i class=\"fa fa-user\"></i> %2$s</span>"
+msgstr "<span class=\"posted-on\"><i class=\"fa fa-calendar\"></i> %1$s</span><span class=\"byline\"> <i class=\"fa fa-user\"></i> %2$s</span>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:137
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:137
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:155
+msgid "Edit"
+msgstr "Edit"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:152
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/inc/template-tags.php:159
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:111
+msgid "Section via hook"
+msgstr "Section via hook"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:112
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:190
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr "Customize &#8220;%s&#8221;"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:197
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:200
+msgid "Current theme preview"
+msgstr "Current theme preview"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:207
+#, php-format
+msgid "By %s"
+msgstr "By %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:208
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:209
+msgid "Tags"
+msgstr "Tags"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:214
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:214
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr "http://codex.wordpress.org/Child_Themes"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:238
+msgid "Basic Settings"
+msgstr "Basic Settings"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:246
+msgid "Logo"
+msgstr "Logo"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:249
+msgid "Enabling Logo will Disable the default title and description."
+msgstr "Enabling Logo will Disable the default title and description."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:250
+msgid "Upload any Image. It will not be resized Automatically."
+msgstr "Upload any Image. It will not be resized Automatically."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:256
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:280
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:315
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:349
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:421
+msgid ""
+"<a href=\"http://inkhive.com/product/professional-plus/\" target=\"_blank"
+"\">Upgrade to Professional Plus</a>"
+msgstr "<a href=\"http://inkhive.com/product/professional-plus/\" target=\"_blank\">Upgrade to Professional Plus</a>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:257
+msgid ""
+"With Professional Plus, you can do a lot more with your site. Add Favicon. "
+"Manage Sidebars, Choose Full Width Layout for Posts, Pages, Homepage, etc. "
+"Set Colors for various Theme components, Choose from over 8 different "
+"colored skins."
+msgstr "With Professional Plus, you can do a lot more with your site. Add Favicon. Manage Sidebars, Choose Full Width Layout for Posts, Pages, Homepage, etc. Set Colors for various Theme components, Choose from over 8 different colored skins."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:265
+msgid "Slider Settings"
+msgstr "Slider Settings"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:272
+msgid "Enable Slider on Home"
+msgstr "Enable Slider on Home"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:273
+msgid "This will enable slider on both the front page, and homepage."
+msgstr "This will enable slider on both the front page, and homepage."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:281
+msgid ""
+"Professional Plus's pro Slider comes with Unlimited Slides, Option to Select "
+"pages on which slider should be enabled, choice of animation effects, slider "
+"speeds, and a lot more settings."
+msgstr "Professional Plus's pro Slider comes with Unlimited Slides, Option to Select pages on which slider should be enabled, choice of animation effects, slider speeds, and a lot more settings."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:286
+msgid "Slides Options"
+msgstr "Slides Options"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:287
+msgid "Maximum 5 slides with drag and drop sortings."
+msgstr "Maximum 5 slides with drag and drop sortings."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:290
+msgid "Slide Title"
+msgstr "Slide Title"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:291
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:326
+msgid "URL you want to Link."
+msgstr "URL you want to Link."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:300
+msgid "Showcase"
+msgstr "Showcase"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:307
+msgid "Enable Showcase on Home"
+msgstr "Enable Showcase on Home"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:308
+msgid ""
+"This will enable showcase on both the static front page, and homepage(blog)."
+msgstr "This will enable showcase on both the static front page, and homepage(blog)."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:316
+msgid ""
+"Professional Plus's Showcase comes with option to add more items and you can "
+"specify which page to enable it on, and where to disable it."
+msgstr "Professional Plus's Showcase comes with option to add more items and you can specify which page to enable it on, and where to disable it."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:321
+msgid "Showcase Items"
+msgstr "Showcase Items"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:322
+msgid "Add Exactly 3 items."
+msgstr "Add Exactly 3 items."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:323
+msgid "If you add less than 3 items, the orientation will be distorted."
+msgstr "If you add less than 3 items, the orientation will be distorted."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:325
+msgid "Showcase Title"
+msgstr "Showcase Title"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:334
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:341
+msgid "Enable Social Icons"
+msgstr "Enable Social Icons"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:342
+msgid ""
+"This will enable social icons in the top menu bar. If you want a full width "
+"menu, then you need to disable the social icons."
+msgstr "This will enable social icons in the top menu bar. If you want a full width menu, then you need to disable the social icons."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:350
+msgid ""
+"Pro Version Comes with Over 15 Social Icons, and we add any icons as per "
+"user request too."
+msgstr "Pro Version Comes with Over 15 Social Icons, and we add any icons as per user request too."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:356
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:364
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:372
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:380
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:388
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:396
+msgid "Enter Complete URL including http://"
+msgstr "Enter Complete URL including http://"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:371
+msgid "Google+"
+msgstr "Google+"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:405
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:412
+msgid "CSS Code"
+msgstr "CSS Code"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:413
+msgid "Paste your CSS code here."
+msgstr "Paste your CSS code here."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:422
+msgid ""
+"With Professional Plus, you can Add Custom Javascript to Head and footer of "
+"the site. Pro version also supports input of Google Analytics, etc."
+msgstr "With Professional Plus, you can Add Custom Javascript to Head and footer of the site. Pro version also supports input of Google Analytics, etc."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:430
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:431
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr "Import and Export your Redux Framework settings from file, text or URL."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:450
+msgid "Theme Information"
+msgstr "Theme Information"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:451
+msgid "This is how your site will look once ready."
+msgstr "This is how your site will look once ready."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:468
+msgid "Theme Information 1"
+msgstr "Theme Information 1"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:469
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:475
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "<p>This is the tab content, HTML is allowed.</p>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:474
+msgid "Theme Information 2"
+msgstr "Theme Information 2"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:479
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<p>This is the sidebar content, HTML is allowed.</p>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:499
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:500
+msgid "Professional Theme Options"
+msgstr "Professional Theme Options"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:592
+msgid "<p>Welcome to Professional Theme Options"
+msgstr "<p>Welcome to Professional Theme Options"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:594
+msgid "<p>Upgrade to pro</p>"
+msgstr "<p>Upgrade to pro</p>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/options.php:598
+msgid "<p>To report bugs, send us an email.</p>"
+msgstr "<p>To report bugs, send us an email.</p>"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/searchform-top.php:11
+msgid "Search for:"
+msgstr "Search for:"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/searchform-top.php:12
+msgid "Search...."
+msgstr "Search...."
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/professional/sidebar.php:19
+msgid "Meta"
+msgstr "Meta"
+
